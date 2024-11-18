@@ -7,16 +7,6 @@
 - 😄 Pronouns: ... ELMATTOZ
 - ⚡ Fun fact: ... I LIKE TO EAT DORITOS
 
-- - 👋 Hola, soy @Elmattoz
-- 👀 Estoy interesado en... desarrollo backend y frontned
-- 🌱 Actualmente estoy aprendiendo... HTML,CSS , JAVA SCRIPT, NODE.JS , REACT.JS, TYPESCRIPT, DJANGO Y SQL
-- 💞️ Busco colaborar en... PROYECTOS DONDE PUEDA APRENDER Y PONER EN PRACTICAS MI APRENDISAJE 
-- 📫 Cómo contactarme...https://www.instagram.com/elmattoz/
-- 📫 How to contact me..edwinmattosarevalo57@gmail.com
-- 😄 Pronombres: ... ELMATTOZ
-- ⚡ Dato curioso: ... ME GUSTA COMER DORITOS
-
-
 <!---
 Elmattoz/Elmattoz is a special ✨ repository because its `README.md` (this file) appears in your GitHub profile.
 You can click the Preview link to take a look at your changes.
